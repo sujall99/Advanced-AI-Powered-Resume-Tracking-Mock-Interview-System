@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+scikit-learn
+joblib
+numpy
+requests
+sentence-transformers
